@@ -16,7 +16,8 @@ Day21_Fine-tuning/
 │   └── day06-fine-tuning-llms-tu-full-fine-tune-en-loraqlora.tex   ← source slides
 │
 ├── 💻 Notebooks (Google Colab)
-│   └── Lab21_LoRA_Finetuning_T4.ipynb       ← cho Free Colab T4 (Qwen2.5-3B)
+│   ├── Lab21_LoRA_Finetuning_T4.ipynb       ← cho Free Colab T4 (Qwen2.5-3B)
+│   └── Lab21_LoRA_Finetuning_BigGPU.ipynb   ← cho Pro Colab A100/L4 (Qwen2.5-7B)
 │
 ├── 📋 Tài liệu học viên
 │   └── Lab21_Rubric_and_Format.md           ← rubric + submission format
